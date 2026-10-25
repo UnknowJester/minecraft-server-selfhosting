@@ -1,5 +1,7 @@
 # Minecraft NeoForge Server Launcher
 
+Repository: https://github.com/UnknowJester/minecraft-server-selfhosting
+
 Launcher generico e interattivo per un server Minecraft NeoForge costruito a partire da un'istanza Prism Launcher.
 
 Nessun modpack è preimpostato: all'avvio lo script elenca le istanze Prism disponibili e l'utente sceglie quale usare.
