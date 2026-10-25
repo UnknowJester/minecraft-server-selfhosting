@@ -1,0 +1,7 @@
+# Ignora tutto tranne gli script del launcher e la documentazione
+*
+!AVVIA SERVER.bat
+!SELEZIONA MONDO.bat
+!seleziona-mondo.ps1
+!README.md
+!.gitignore
